@@ -9,6 +9,7 @@
 .env.test
 .env.production
 .env.staging
+.venv
 
 # Python
 __pycache__/

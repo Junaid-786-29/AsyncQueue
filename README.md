@@ -14,7 +14,7 @@ This project provides a robust framework for handling asynchronous tasks, featur
 [![ReactFlow](https://img.shields.io/badge/ReactFlow-12-blue.svg)](https://reactflow.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue.svg)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/Docker-24-red.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 ## 1. Overview
 
@@ -524,7 +524,7 @@ Refer to the `.env.example` file for a full list of tunable parameters and examp
 
 ## 13. Collaboration
 
-We welcome contributions from the community! Whether you're fixing a bug, improving documentation, or adding a new feature, your help is greatly appreciated. This project is licensed under the MIT license, which allows for broad collaboration.
+We welcome contributions from the community! Whether you're fixing a bug, improving documentation, or adding a new feature, your help is greatly appreciated. Please note that this project is under **All Rights Reserved** — contributions require prior written permission from the author.
 
 ### How to Contribute
 
